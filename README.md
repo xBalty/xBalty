@@ -46,11 +46,3 @@
 </div>
 
 <div align="center">
-  
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=xBalty&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xBalty&layout=compact&theme=radical)
-
-</div>
