@@ -1,33 +1,56 @@
 <h3 align="center">
-  Welcome to xBalty's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Welcome to xBalty's Profile
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
-<p align="center">
-  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hello!+%F0%9F%9A%80+Let%E2%80%99s+build.;-C+coder%7C+Python+dev+%7C+SQL+queries!+%F0%9F%93%82;Build.+Break.+Fix.+Repeat.+%E2%99%BB%EF%B8%8F;Life%E2%80%99s+too+short+for+bad+code.+%E2%9C%A8"></a>
-</p>
 
-<br />
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&center=true&width=500&lines=Game+Server+Developer;Computer+Engineering+Student;Python+%7C+Java+%7C+C+Enthusiast;Automation+%26+Database+Specialist" alt="Typing SVG">
+  </a>
+</p>
 
 <div align="center">
   
-# 💫About Me :
+## 🚀 About Me
 
-A **Software Engineering Student** 🚀 from Santiago, Chile.
+**Software & Systems Engineering Student** from Santiago, Chile 🇨🇱
 
-**About Me!**
+- 👨‍💻 Developing custom game server solutions
+- 🌱 Mastering Java & server-side architectures
+- 🛠️ Passionate about game servers, databases & automation
+- 🎓 Computer Engineering undergrad (Software Systems focus)
+- 💡 Always open to tech discussions and collaborations
 
- - 👨🏽‍💻 Currently working on my own game server projects.
-- 🌱 Learning Java and diving deeper into server-side development.
-- 🤔 Passionate about game server configuration, databases, and process automation.
-- 💼 Pursuing a Bachelor's degree in Computer Engineering (Software & Systems focus).
-- 💬 Ask me anything! I enjoy sharing knowledge and discussing tech.
+</div>
 
-<h2 class="heading-element" dir="auto">My Skills Include</h2>
-<h4 class="heading-element" dir="auto"> Languages </h4>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
-<h4 class="heading-element" dir="auto"> Databases </h4>
-<span>
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
-</span>
+<div align="center">
+  
+## 🛠️ Tech Stack
+
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### Databases & Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### Game Server Technologies
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+<div align="center">
+  
+## 📈 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=xBalty&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xBalty&layout=compact&theme=radical)
+
+</div>
