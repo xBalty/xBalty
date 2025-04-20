@@ -14,7 +14,7 @@
   
 ## 🚀 About Me
 
-**Software & Systems Engineering Student** from Santiago, Chile 🇨🇱
+**Software & Systems Engineering Student** from Santiago, Chile🌎
 
 - 👨‍💻 Developing custom game server solutions
 - 🌱 Mastering Java & server-side architectures
